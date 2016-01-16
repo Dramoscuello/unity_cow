@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 5f7751ed0711c9e46b830a1c5b0deaf1
+timeCreated: 1452960693
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone
+    100002: creast_001
+    100004: creast_002
+    100006: Empty
+    100008: finger_001_L
+    100010: finger_001_R
+    100012: finger_002_L
+    100014: finger_002_R
+    100016: finger_003_L
+    100018: finger_003_R
+    100020: finger_004_L
+    100022: finger_004_R
+    100024: head
+    100026: head_target
+    100028: //RootNode
+    100030: hen_mesh
+    100032: hen_rig
+    100034: hip
+    100036: leg_001_L
+    100038: leg_001_R
+    100040: leg_002_L
+    100042: leg_002_R
+    100044: leg_target_L
+    100046: leg_target_R
+    100048: neck_001
+    100050: neck_002
+    100052: neck_target
+    100054: papada
+    100056: Plane_001
+    100058: tail_001
+    100060: tail_002
+    100062: wing_001_L
+    100064: wing_001_R
+    100066: wing_002_L
+    100068: wing_002_R
+    100070: wing_pole_L
+    100072: wing_pole_R
+    100074: wing_target_L
+    100076: wing_target_R
+    400000: Bone
+    400002: creast_001
+    400004: creast_002
+    400006: Empty
+    400008: finger_001_L
+    400010: finger_001_R
+    400012: finger_002_L
+    400014: finger_002_R
+    400016: finger_003_L
+    400018: finger_003_R
+    400020: finger_004_L
+    400022: finger_004_R
+    400024: head
+    400026: head_target
+    400028: //RootNode
+    400030: hen_mesh
+    400032: hen_rig
+    400034: hip
+    400036: leg_001_L
+    400038: leg_001_R
+    400040: leg_002_L
+    400042: leg_002_R
+    400044: leg_target_L
+    400046: leg_target_R
+    400048: neck_001
+    400050: neck_002
+    400052: neck_target
+    400054: papada
+    400056: Plane_001
+    400058: tail_001
+    400060: tail_002
+    400062: wing_001_L
+    400064: wing_001_R
+    400066: wing_002_L
+    400068: wing_002_R
+    400070: wing_pole_L
+    400072: wing_pole_R
+    400074: wing_target_L
+    400076: wing_target_R
+    2300000: Plane_001
+    3300000: Plane_001
+    4300000: hen_mesh
+    4300002: Plane_001
+    7400000: Default Take
+    7400002: hen_idle
+    7400004: hen_pick
+    7400006: hen_walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: hen_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
